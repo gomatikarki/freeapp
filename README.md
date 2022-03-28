@@ -1,4 +1,4 @@
-# Spring Boot Project (2.6.5) RESTful API with Swagger OpenAPI 1.5.12
+# Spring Boot Project (2.6.5) RESTful API with Swagger OpenAPI 3.0
 
 # What You Need
 
